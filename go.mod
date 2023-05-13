@@ -12,8 +12,8 @@ require (
 	github.com/mattbaird/elastigo v0.0.0-20170123220020-2fe47fd29e4b
 	github.com/stretchr/testify v1.8.2
 	github.com/xdg-go/scram v1.1.2
-	golang.org/x/net v0.9.0
-	golang.org/x/sys v0.7.0
+	golang.org/x/net v0.10.0
+	golang.org/x/sys v0.8.0
 	k8s.io/apimachinery v0.27.1
 	k8s.io/client-go v0.27.1
 )
@@ -62,7 +62,7 @@ require (
 	github.com/xdg-go/stringprep v1.0.4 // indirect
 	golang.org/x/crypto v0.8.0 // indirect
 	golang.org/x/oauth2 v0.7.0 // indirect
-	golang.org/x/term v0.7.0 // indirect
+	golang.org/x/term v0.8.0 // indirect
 	golang.org/x/text v0.9.0 // indirect
 	golang.org/x/time v0.3.0 // indirect
 	google.golang.org/appengine v1.6.7 // indirect
