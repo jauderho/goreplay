@@ -19,3 +19,7 @@ updates:
     schedule:
       interval: "weekly"
       
+  - package-ecosystem: "bundler"
+    directory: "/site"
+    schedule:
+      interval: "weekly"
